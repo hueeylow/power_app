@@ -1,4 +1,4 @@
-<h2>Chope My Desk with Power App</h2>
+<h2>Power App Canvas: Chope My Desk</h2>
 <h3>1. Introduction</h3>
 <p>Hotdesking is increasingly common in modern workplaces as it provides flexibility and better utilisation of office space, however it can caused inconvenience when there is <b></b>no centralised desk booking system. </b></p>
 
