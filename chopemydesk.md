@@ -75,9 +75,6 @@ Outcome: Validation successfully prevents duplicate reservation. </br>
 <b>a. Existing Reservation Found </b></br>
 [To insert user existing reservation screenshot]</br>
 
-<b>b. Duplicate Booking Validation Message </b></br>
-[To insert you already have a booking for this date screenshot]</br>
-
 <h4>3.3 Prevent Double Booking of the Same Desk</h4>
 The application ensures that a desk can only be reserved once for a given date. </br></br>
 
