@@ -7,8 +7,7 @@
 <p>In this post, I will walk through the process design and demonstration of the application.</p>
 
 <h3>2. Process Design Flowchart</h3>
-<p>Before building the application, the reservation process is mapped out to illustrate the user journey involved in reserving a desk.</p>
-The application has two user paths:</br>
+<p>The application has two user paths - (1) Normal User and (2) Administrator. Before developing the application, the booking process is mapped out to illustrate the user journey involved in booking a desk.</p>
 </br>
 <b>[To insert process chart]</b></br>
 
