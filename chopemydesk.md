@@ -7,7 +7,7 @@
 <p>In this post, I will walk through the process design and demonstration of the application.</p>
 
 <h3>2. Process Design Flowchart</h3>
-<p>The application has two user paths - (1) Normal User and (2) Administrator. Before developing the application, the booking process is mapped out to illustrate the user journey involved in booking a desk.</p>
+<p>The application has two user paths - <b>(1) Normal User</b> and <b>(2) Administrator</b>. Before developing the application, the booking process is mapped out to illustrate the user journey involved in booking a desk.</p>
 
 <h4><b>2.1 Normal User</b></h4>
 Employees can access the portal to manage their own desk reservation:</br>
@@ -162,7 +162,11 @@ Administrators have additional controls to view all users’ records and create,
       <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/admin01.png" width="700" height="500"/> </br>
     <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/admin03.png" width="700" height="500"/> </br>
 </p>
-
+<h4>3.6 Data Source</h4>
+The project uses an Excel file saved in SharePoint as its primary data source. The excel file serves as a centralised repository for all entries submitted through the Chope My Desk Portal.</br></br>
+<p align="left">
+    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/sharepoint2.png" width="700" height="500"/> </br>
+</p>
 <h3>4. Summary</h3>
 <p>The <b>Chope My Desk Portal</b> provides a streamlined desk reservation experience while enforcing key control mechanisms to ensure booking accuracy. Through automated validation checks, the application prevents both multiple bookings by the same user and double-booking of desks, creating a reliable and efficient workspace booking solution.</p>
 
