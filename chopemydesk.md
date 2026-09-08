@@ -57,10 +57,16 @@ iv. Submit the booking request. </br>
 
 Outcome: Notification on booking request is successfully created. </br></br>
 <b>a. Desk Availability </b></br>
-[To insert Desk Availability screenshot]</br>
+<p align="left">
+  <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/03.png" width="700" height="500"/>
+</p>
 
 <b>b. Successful Desk Booking</b></br>
-[To insert Successful Desk Booking screenshot]</br></br>
+
+<p align="left">
+  <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/04_01.png" width="700" height="500"/> </br>
+    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/04_02.png" width="700" height="500"/>
+</p>
 
 <h4>3.2 Prevent Multiple Bookings by the Same User</h4>
 To ensure fair usage, each user is allowed only one desk reservation per day.</br></br>
