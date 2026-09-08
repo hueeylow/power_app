@@ -85,11 +85,8 @@ iii. The system checks for desk availability.</br>
 iv. The booking request is rejected.</br></br>
 Outcome: Double booking is successfully prevented. </br>
 
-<b>a. Desk Already Reserved </b></br>
+<b>a. Desk Has already been reserved </b></br>
 [To insert desk is already reserved screenshot]</br>
-
-<b>a. Double Booking Error Message </b></br>
-[To insert desk is already booked error screenshot]</br>
 
 Example Message </br>
 This desk has already been reserved for the selected date. Please choose another desk. </br></br>
