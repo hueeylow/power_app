@@ -8,40 +8,48 @@
 
 <h3>2. Process Design Flowchart</h3>
 <p>The application has two user paths - (1) Normal User and (2) Administrator. Before developing the application, the booking process is mapped out to illustrate the user journey involved in booking a desk.</p>
-</br>
-<b>[To insert process chart]</b></br>
 
 <h4><b>2.1 Normal User</b></h4>
-Employees can access the portal to manage their own desk reservation: </br>
+Employees can access the portal to manage their own desk reservation:</br>
 </br>
-<b>i. Create a Desk Booking</b></br>
+<p align="left">
+    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/flowchart_user.png" width="700" height="500"/> </br>
+</p>
+<b>i. View Desk Availability</b></br>
+The main page displays real-time desk availability based on the selected date.</b><br></br>
+
+<b>ii. Create a Desk Booking</b></br>
 Users can select a preferred date and reserve any desk that is available for that day.<br><br>
-<b>ii. View Booking Summary</b></br>
+<b>iii. View Booking Summary</b></br>
 Users can view their current reservation details, including the booking date and reserved desk.<br><br>
-<b>iii. Delete Own Booking</b></br>
-Users can remove their own reservation when the desk is no longer required.</b><br><br>
-<b>iv. View Desk Availability</b></br>
-The main page displays real-time desk availability based on the selected date.</b><br><br>
+<b>iv. Delete Own Booking</b></br>
+Users can remove their own reservation when the desk is no longer required.</b></br></br>
 <b>v. Prevent Multiple Bookings</b></br>
 Users cannot create more than one reservation for the same day.</b><br><br>
 <b>vi. Prevent Double Booking</b></br>
-A desk that has already been reserved for a selected date cannot be booked by another user.</b><br>
+A desk that has already been reserved for a selected date cannot be booked by another user.</b><br><br>
 
 <h4><b>2.2 Administrator</b></h4>
 Administrator have additional access and functionality to manage reservations across all users: <br><br>
-<b>[To insert process chart]</b></br></br>
-<b>i. View All Booking Reservations</b></br>
-Administrator can view booking summaries and reservation details for all users.
-This provides a centralised overview of desk usage.<br><br>
-<b>ii. Delete Any User's Booking</b></br>
-Administrator can delete reservation belonging to any user when required.<br><br>
-<b>iii. View Desk Availability</b></br>
+<p align="left">
+    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/flowchart_admin.png" width="700" height="500"/> </br>
+</p>
 
-Administrator can also check desk availability based on the selected date.<br><br>
-<b>iv. Create Booking on Behalf of User</b></br>
+<b>i. View All Booking Reservations</b></br>
+Administrator can view booking summaries and reservation details for all users.<br>
+
+<b>ii. View Desk Availability</b></br>
+Administrator can also check desk availability based on the selected date.<br>
+
+<b>iii. Create Booking on Behalf of User</b></br>
 Administrator can create a desk reservation for another user by input his name and select an available desk.
 This is useful when an administrator needs to manage a reservation on behalf of user.
-</br></br>
+</br>
+
+<b>iv. Delete Any User's Booking</b></br>
+Administrator can delete reservation belonging to any user when required.<br><br>
+
+
 <h3>3. Power App Application Demo</h3>
 <h4>Overview</h4>
 <p><b>Chope My Desk App </b> enables employees to view desk availability, reserve desk, and manage their reservation. To ensure fair usage and booking integrity, the application prevents multiple bookings by the same employee and eliminates double-booking conflicts. </p>
@@ -158,4 +166,5 @@ Administrators have additional controls to view all users’ records and create,
 <h3>4. Summary</h3>
 <p>The <b>Chope My Desk Portal</b> provides a streamlined desk reservation experience while enforcing key control mechanisms to ensure booking accuracy. Through automated validation checks, the application prevents both multiple bookings by the same user and double-booking of desks, creating a reliable and efficient workspace booking solution.</p>
 
-<h3><b>Be right back. Editing in progress .. </b></h3>
+</br>
+<a href= "https://www.github.com/hueeylow"> << Back </a>
