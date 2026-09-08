@@ -79,7 +79,9 @@ iv. The booking request is blocked.</br></br>
 Outcome: Validation successfully prevents duplicate reservation. </br>
 
 <b>a. Existing Reservation Found </b></br>
-[To insert user existing reservation screenshot]</br>
+<p align="left">
+    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/05.png" width="700" height="500"/>
+</p>
 
 <h4>3.3 Prevent Double Booking of the Same Desk</h4>
 The application ensures that a desk can only be reserved once for a given date. </br></br>
@@ -92,10 +94,9 @@ iv. The booking request is rejected.</br></br>
 Outcome: Double booking is successfully prevented. </br>
 
 <b>a. Desk Has already been reserved </b></br>
-[To insert desk is already reserved screenshot]</br>
-
-Example Message </br>
-This desk has already been reserved for the selected date. Please choose another desk. </br></br>
+<p align="left">
+    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/06.png" width="700" height="500"/>
+</p>
 
 <h4>3.4 Delete Existing Reservation</h4>
 Users can manage their own reservations and delete bookings when required.</br></br>
@@ -108,10 +109,15 @@ iv. Booking is deleted successfully. </br></br>
 Outcome: Users can maintain their own reservations without administrator intervention.</br>
 
 <b>a. My Reservations Page</b></br>
-[To insert my reservation screenshot]</br>
-
+<p align="left">
+    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/Del_01.png" width="700" height="500"/> </br>
+</p>
 <b>b. Reservation Deleted Successfully</b></br>
-[To insert successful deletion notification]</br>
+<p align="left">
+    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/Del-02.png" width="700" height="500"/> </br>
+    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/Del-03.png" width="700" height="500"/> </br>
+    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/Del-04.png" width="700" height="500"/> </br>
+</p>
 
 <h4>Key Features and Controls</h4>
 
@@ -141,8 +147,15 @@ Outcome: Users can maintain their own reservations without administrator interve
 <td style="border:1px solid #666; padding:10px;">Simple workflow with clear validation messages</td>
 </tr>
 </table>
+<br>
+<h4>3.5 Administrator Controls</h4>
+Administrators have additional controls to view all users’ records and create, update, or delete desk bookings on their behalf.</br> </br>
+<p align="left">
+      <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/admin01.png" width="700" height="500"/> </br>
+    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/admin03.png" width="700" height="500"/> </br>
+</p>
 
 <h3>4. Summary</h3>
-<p>The <b>Chope My Desk App</b> provides a streamlined desk reservation experience while enforcing key control mechanisms to ensure booking accuracy. Through automated validation checks, the application prevents both multiple bookings by the same user and double-booking of desks, creating a reliable and efficient workspace booking solution.</p>
+<p>The <b>Chope My Desk Portal</b> provides a streamlined desk reservation experience while enforcing key control mechanisms to ensure booking accuracy. Through automated validation checks, the application prevents both multiple bookings by the same user and double-booking of desks, creating a reliable and efficient workspace booking solution.</p>
 
 <h3><b>Be right back. Editing in progress .. </b></h3>
