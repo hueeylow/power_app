@@ -7,16 +7,18 @@
 <p>In this post, I will walk through the process design and demonstration of the application.</p>
 
 <h3>2. Process Design Flowchart</h3>
-<p>The application has two user paths - <b>(1) Normal User</b> and <b>(2) Administrator</b>. Before developing the application, the booking process is mapped out to illustrate the user journey involved in booking a desk.</p>
+<p>The application has two user types - <b>(1) Normal User</b> and <b>(2) Administrator</b>. Before developing the application, the reservation process is mapped out to illustrate end-to-end user journey involved in reserving a workdesk.</p>
+
+<p align="left">
+    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/UserJourneyMap.png"/> </br>
+</p>
 
 <h4><b>2.1 Normal User</b></h4>
 Employees can access the portal to manage their own desk reservation:</br>
 </br>
-<p align="left">
-    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/flowchart_user.png" width="700" height="500"/> </br>
-</p>
+
 <b>i. View Desk Availability</b></br>
-The main page displays real-time desk availability based on the selected date.</b><br></br>
+The main page displays real-time desk availability based on the selected date.</b><br>
 
 <b>ii. Create a Desk Booking</b></br>
 Users can select a preferred date and reserve any desk that is available for that day.<br><br>
@@ -31,22 +33,15 @@ A desk that has already been reserved for a selected date cannot be booked by an
 
 <h4><b>2.2 Administrator</b></h4>
 Administrator have additional access and functionality to manage reservations across all users: <br><br>
-<p align="left">
-    <img alt="left" src="https://github.com/hueeylow/power_app/blob/main/flowchart_admin.png" width="700" height="500"/> </br>
-</p>
-
 <b>i. View All Booking Reservations</b></br>
-Administrator can view booking summaries and reservation details for all users.<br>
+Administrator can view booking summaries and reservation details for all users.<br><br>
 
-<b>ii. View Desk Availability</b></br>
-Administrator can also check desk availability based on the selected date.<br>
-
-<b>iii. Create Booking on Behalf of User</b></br>
+<b>ii. Create Booking on Behalf of User</b></br>
 Administrator can create a desk reservation for another user by input his name and select an available desk.
 This is useful when an administrator needs to manage a reservation on behalf of user.
 </br>
 
-<b>iv. Delete Any User's Booking</b></br>
+<b>iii. Delete Any User's Booking</b></br>
 Administrator can delete reservation belonging to any user when required.<br><br>
 
 
