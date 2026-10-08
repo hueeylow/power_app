@@ -33,5 +33,5 @@ Complete the Service Request Form</br> &darr;</br>
 Submit the Request</br> &darr;</br>
 View the Submitted Record</br>
 </br>
-<p>The request form provides a straightforward approach in raising a service ticket request.</p>
+<p>The manual approach provides is straightforward in raising a service ticket request.</p>
 
