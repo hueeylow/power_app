@@ -25,3 +25,13 @@
 </ul>
 
 <p>The application provides <b>two ticket request submission routes</b>, allowing employees to choose between a traditional form-based experience and an AI-assisted conversational experience.</p>
+<h4><b>2.1 Manual Service Request Route</b></h4>
+<p>Employees can raise a ticket directly through a structured service request form.</p>
+<b>Process:</b></br>
+Click "Submit New Request"</br> &darr;</br>
+Complete the Service Request Form</br> &darr;</br>
+Submit the Request</br> &darr;</br>
+View the Submitted Record</br>
+</br>
+<p>The request form provides a straightforward approach in raising a service ticket request.</p>
+
