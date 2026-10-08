@@ -35,7 +35,10 @@ Submit the Request</br> &darr;</br>
 View the Submitted Record</br>
 </br>
 <p>The manual approach offers a straightforward and structured way in raising a service ticket request.</p>
-<b>insert demo</b> </br></br>
+
+<p align="center">
+  <img src="https://github.com/hueeylow/power_app/blob/main/new_req_clip_1080px.webp" width="1080">
+</p>
 
 
 <h4><b>2.2 AI-Assisted Service Request Route</b></h4>
@@ -55,27 +58,12 @@ View the Submitted Record</br>
 For example, instead of navigating through a form, an employee could simply tell the agent:</br></br>
 "My laptop monitor is faulty, I need a replacement."</br> </br>
 The agent can then ask relevant follow-up questions, collect the required information, and present a summary for confirmation before submitting the service request.
-</br></br>
-<b>insert demo</b> </br></br>
+</br>
 
+<p align="center">
+  <img src="https://github.com/hueeylow/power_app/blob/main/ai_req_clip_1080px.webp" width="1080">
 </p>
 
-<h4><b>2.3 Solution Architecture</b></h4>
-
-The solution combines several Microsoft technologies: </br></br>
-<b>Power Apps</b></br>
-Employee-facing application and service request interface</br>
-
-<b>Copilot Studio</b></br>
-Conversational AI agent for understanding and collecting service requests</br>
-
-<b>Workflow / Automation</b></br>
-Processes the request and creates the service ticket</br>
-
-<b>SharePoint</b></br>
-Central data store for submitted service requests</br></br>
-
-<b>Insert solution architecture diagram</b> </br></br>
 
 <h3>3. Key Takeaways</h3>
 
