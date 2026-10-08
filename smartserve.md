@@ -54,10 +54,10 @@ Ticket is submitted</br> &darr;</br>
 View the Submitted Record</br>
 </br>
 
-<p>The AI agent is designed to make the ticket-raising process more intuitive by allowing employees to describe their issue naturally rather than filling out every field manually.
-For example, instead of navigating through a form, an employee could simply tell the agent:</br></br>
+<p>The AI agent is designed to make the ticket-raising process more intuitive by allowing user to describe their issue rather than filling out every field manually.
+For example, instead of navigating through a form, the user could simply tell the agent:</br></br>
 "My laptop monitor is faulty, I need a replacement."</br> </br>
-The agent can then ask relevant follow-up questions, collect the required information, and present a summary for confirmation before submitting the service request.
+The agent can then ask relevant follow-up questions, collect the required information, and generate a summary for confirmation before submitting the service request.
 </br>
 
 <p align="center">
