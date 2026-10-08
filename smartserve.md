@@ -67,15 +67,13 @@ The agent can then ask relevant follow-up questions, collect the required inform
 
 <h3>3. Key Takeaways</h3>
 
-<p>This project demonstrates how <b>Power Apps and Copilot Studio can work together to create a more flexible employee service experience.</b></p>
+<p>This project demonstrates how a conversational  AI agent built within Power Apps can streamline service request processes and deliver a more seamless corporate user experience.</b></p>
 
-<p>The key idea is not to replace the traditional form, but to provide employees with <b>alternative to accomplish the same task></b>:</p>
+<p>The key idea is not to replace the traditional form, but to provide employees with <b>alternative to accomplish the same task</b>:</p>
 <ul>
   <li><b>Manual route</b> → Structured and familiar </li>
   <li><b>AI route</b>  → Conversational and guided </li>
 </ul>
-
-  <p>This MVP also demonstrates how conversational AI can be integrated into an existing business process rather than being used as a standalone chatbot.</p>
 
   </br>
 <a href= "https://www.github.com/hueeylow"> << Back </a>
